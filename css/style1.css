@@ -8314,3 +8314,11 @@ textarea.form-control {
   display: none;
   font-size: 16px;
   font-weight: 500; }
+.centering{
+  /* align-items: center;
+  justify-content: center; */
+  margin-left: 500px;
+}
+.col-lg-5{
+  margin-left: 320px;
+}
